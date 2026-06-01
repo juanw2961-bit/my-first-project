@@ -1,13 +1,9 @@
-﻿# 我的第一个项目
+﻿# First Project
 
-这是一个用于学习 GitHub 仓库、拉取请求和自动检查流程的起始项目。
+This PR adds a starter checklist for project review.
 
-## 分类
+## Review focus
 
-- `docs/`：项目说明和计划
-- `src/`：示例内容
-- `checks/`：本地检查脚本
-
-## 当前目标
-
-通过一个小的 PR 演示如何检查问题、分类问题、调试失败检查，并准备代码更改供审查。
+- Confirm the project has a clear title
+- Confirm the checklist is easy to follow
+- Confirm local checks pass
